@@ -1,0 +1,7 @@
+.git
+.next
+.husky
+.next
+package.json
+node_modules
+coverage
